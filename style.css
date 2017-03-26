@@ -1,0 +1,20 @@
+
+
+body{
+  background-color:#d9534f !important;
+}
+.colored{
+  background-color:#d9534f;
+}
+#box {
+  margin-top: 50%;
+}
+#quote-box {
+  font-family: 'Oswald', sans-serif;
+ 
+  text-align: left;
+  word-wrap: break-word;
+}
+p{
+  font-family:sans-serif;
+}
